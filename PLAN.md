@@ -1,21 +1,18 @@
 # The Gilly Monster - Game Plan
+## How the game works
 
-## Basic Concept
+#### Basic concept
+The basic concept of the game is you are in a swamp, dark forest, or something similar, trying to avoid getting captured by the Gilly Monster.
+The Gilly is a bush monster that is pretty much one of the most dangerous creatures in Wonder World.
 
-The Gilly Monster is a Monster, Last Man Standing game where players must survive longer than their opponents before the Gilly Monster catches them.
+#### Rules and gameplay
+You and your opponents have to try and survive from the Gilly. The last man standing wins. Collect every item you see and build tools that give more opprotunities to get away from the Gilly.
 
-## Game Overview
+The game will have a 15 minute timer, and every minute, the Gilly gets more hostile and stronger. If there are players still standing after the timer goes off, a score tally will take place.
+Here is how the scores will be calculated:
 
-- **Genre**: Survival / Last Man Standing
-- **Objective**: Be the last player remaining before the Gilly Monster eliminates everyone
-- **Players**: Multiple players compete against each other while evading the Gilly Monster
+- Time Ran From Gilly (10 seconds = 2pts)
+- Tools Built (can range from 5pts to 300pts)
+- Materials in Inventory (can range from 1pt to 80pts)
+- Player Sacrifice (8pts x Number of Minutes passed)
 
-## Core Mechanics
-
-1. **Survival**: Players must avoid being caught by the Gilly Monster
-2. **Competition**: Outlast other players to win
-3. **The Gilly Monster**: A relentless pursuer that hunts all players
-
-## Development Status
-
-This game is currently in the planning phase.
